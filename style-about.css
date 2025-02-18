@@ -1,0 +1,104 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #846ab2;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Pacifico-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 41px;
+  width: 275px;
+  height: 61px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 798px;
+  top: 71px;
+  width: 160px;
+  height: 56px;
+}
+.homepage-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.homepage-span2 {
+  color: #000000;
+  font-family: "JsMathCmbx10-Cmbx10", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 988px;
+  top: 84px;
+  width: 98px;
+  height: 38px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 83px;
+  width: 89px;
+  height: 34px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 177px;
+  width: 1271px;
+  height: 71px;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 546px);
+  top: calc(50% - 229px);
+  width: 1078px;
+  height: 66px;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 552px);
+  top: calc(50% - 145px);
+  width: 1078px;
+  height: 190px;
+}
